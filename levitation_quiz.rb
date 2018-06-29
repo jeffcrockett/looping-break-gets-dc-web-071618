@@ -1,6 +1,6 @@
 
 def levitation_quiz
-	#your code here
+	input = gets
 end
 
 
